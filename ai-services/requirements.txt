@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pandas
+numpy
+joblib
+scikit-learn
+nltk
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+python-dotenv
+duckduckgo-search
+groq
+pypdf
